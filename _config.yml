@@ -23,8 +23,9 @@ description: Homepage
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   About Me: "aboutme"
-  Research: "research"
+  Publications: "publications"
   Links:
     - Github: "https://github.com/ph4m"
     - Google Scholar: "https://scholar.google.com/citations?user=omqi7kAAAAAJ&hl=en&oi=sra"
