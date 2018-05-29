@@ -4,7 +4,7 @@ title: Publications
 ---
 
 [OptLayer - practical constrained optimization for deep reinforcement learning in the real world](/2018-05-21-icra)  
-T.-H. Pham, G. De Magistris, R. Tachibana, IEEE International Conference on Robotics and Automation (ICRA), 2018 (to appear), Brisbane, Australia, May, 2018.
+T.-H. Pham, G. De Magistris, R. Tachibana, IEEE International Conference on Robotics and Automation (ICRA), 2018, Brisbane, Australia, May, 2018.
 [[pdf](https://arxiv.org/abs/1709.07643)],
 [[video](http://www.youtube.com/watch?v=7liBbk3VjWQ)].
 
