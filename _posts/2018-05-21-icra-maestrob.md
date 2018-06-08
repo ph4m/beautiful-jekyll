@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MaestROB: a robotics framework for integrated orchestration of low-level control and high-level reasoning
+title: "MaestROB: a robotics framework for integrated orchestration of low-level control and high-level reasoning"
 subtitle: A. Munawar, G. De Magistris, T.-H. Pham, D. Kimura, M. Tatsubori, T. Moriyama, R. Tachibana, G. Booch, IEEE International Conference on Robotics and Automation (ICRA), 2018
 image: /img/papers/icra2018-maestrob.jpg
 tags: [research]
