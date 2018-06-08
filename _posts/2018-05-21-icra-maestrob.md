@@ -18,7 +18,7 @@ This paper describes a framework called MaestROB. It is designed to make the rob
 
 ~~~
 @inproceedings{icra:munawar:2018,
-    Author       = {Munawar, Aim and De Magistris, Giovanni and Pham, Tu-Hoa and Kimura, Daiki and Tatsubori, Michiaki and Moriyama, Takao and Tachibana, Ryuki and Booch, Grady},
+    Author       = {Munawar, Asim and De Magistris, Giovanni and Pham, Tu-Hoa and Kimura, Daiki and Tatsubori, Michiaki and Moriyama, Takao and Tachibana, Ryuki and Booch, Grady},
     Title        = {MaestROB: A Robotics Framework for Integrated Orchestration of Low-Level Control and High-Level Reasoning},
     Booktitle    = {Proceedings of the IEEE International Conference on Robotics and Automation ({ICRA})},
     Year         = {2018},
