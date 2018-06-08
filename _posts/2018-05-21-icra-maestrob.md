@@ -1,0 +1,29 @@
+---
+layout: post
+title: MaestROB: a robotics framework for integrated orchestration of low-level control and high-level reasoning
+subtitle: A. Munawar, G. De Magistris, T.-H. Pham, D. Kimura, M. Tatsubori, T. Moriyama, R. Tachibana, G. Booch, IEEE International Conference on Robotics and Automation (ICRA), 2018
+image: /img/papers/icra2018-maestrob.jpg
+tags: [research]
+---
+
+This paper describes a framework called MaestROB. It is designed to make the robots perform complex tasks with high precision by simple high-level instructions given by natural language or demonstration. To realize this, it handles a hierarchical structure by using the knowledge stored in the forms of ontology and rules for bridging among different levels of instructions. Accordingly, the framework has multiple layers of processing components; perception and actuation control at the low level, symbolic planner and Watson APIs for cognitive capabilities and semantic understanding, and orchestration of these components by a new open source robot middleware called Project Intu at its core. We show how this framework can be used in a complex scenario where multiple actors (human, a communication robot, and an industrial robot) collaborate to perform a common industrial task. Human teaches an assembly task to Pepper (a humanoid robot from SoftBank Robotics) using natural language conversation and demonstration. Our framework helps Pepper perceive the human demonstration and generate a sequence of actions for UR5 (collaborative robot arm from Universal Robots), which ultimately performs the assembly (e.g. insertion) task.
+
+### Video
+
+[![YouTube](http://img.youtube.com/vi/19JsdZi0TWU/0.jpg)](https://www.youtube.com/watch?v=19JsdZi0TWU)
+
+### Reference
+
+[[pdf](https://arxiv.org/abs/1806.00802)], [[video](https://www.youtube.com/watch?v=19JsdZi0TWU)]
+
+~~~
+@inproceedings{icra:munawar:2018,
+    Author       = {Munawar, Aim and De Magistris, Giovanni and Pham, Tu-Hoa and Kimura, Daiki and Tatsubori, Michiaki and Moriyama, Takao and Tachibana, Ryuki and Booch, Grady},
+    Title        = {MaestROB: A Robotics Framework for Integrated Orchestration of Low-Level Control and High-Level Reasoning},
+    Booktitle    = {Proceedings of the IEEE International Conference on Robotics and Automation ({ICRA})},
+    Year         = {2018},
+    Organization = {IEEE},
+    URL = {https://arxiv.org/abs/1806.00802},
+    Abstract     =  {This paper describes a framework called MaestROB. It is designed to make the robots perform complex tasks with high precision by simple high-level instructions given by natural language or demonstration. To realize this, it handles a hierarchical structure by using the knowledge stored in the forms of ontology and rules for bridging among different levels of instructions. Accordingly, the framework has multiple layers of processing components; perception and actuation control at the low level, symbolic planner and Watson APIs for cognitive capabilities and semantic understanding, and orchestration of these components by a new open source robot middleware called Project Intu at its core. We show how this framework can be used in a complex scenario where multiple actors (human, a communication robot, and an industrial robot) collaborate to perform a common industrial task. Human teaches an assembly task to Pepper (a humanoid robot from SoftBank Robotics) using natural language conversation and demonstration. Our framework helps Pepper perceive the human demonstration and generate a sequence of actions for UR5 (collaborative robot arm from Universal Robots), which ultimately performs the assembly (e.g. insertion) task.}
+}
+~~~
