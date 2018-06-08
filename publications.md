@@ -3,10 +3,15 @@ layout: page
 title: Publications
 ---
 
-[OptLayer - practical constrained optimization for deep reinforcement learning in the real world](/2018-05-21-icra)  
+[OptLayer - practical constrained optimization for deep reinforcement learning in the real world](/2018-05-21-icra-optlayer)  
 T.-H. Pham, G. De Magistris, R. Tachibana, IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May, 2018.
 [[pdf](https://arxiv.org/abs/1709.07643)],
 [[video](http://www.youtube.com/watch?v=7liBbk3VjWQ)].
+
+[MaestROB: a robotics framework for integrated orchestration of low-level control and high-level reasoning](/2018-05-21-icra-maestrob)  
+A. Munawar, G. De Magistris, T.-H. Pham, D. Kimura, M. Tatsubori, T. Moriyama, R. Tachibana, G. Booch, IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May, 2018.
+[[pdf](https://arxiv.org/abs/1806.00802)],
+[[video](https://www.youtube.com/watch?v=19JsdZi0TWU)].
 
 [Multi-contact interaction force sensing from whole-body motion capture](/2017-10-23-tii)  
 T.-H. Pham, S. Caron, A. Kheddar, IEEE Transactions on Industrial Informatics (TII), 2017.
