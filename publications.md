@@ -3,6 +3,11 @@ layout: page
 title: Publications
 ---
 
+[Experimental force-torque dataset for robot learning of multi-shape insertion](/2018-09-04-rsj)  
+G. De Magistris, A. Munawar, T.-H. Pham, T. Inoue, P. Vinayavekhin, R. Tachibana, 36th Annual Conference of the Robotics Society of Japan (RSJ), Kasugai, Japan, September, 2018.
+[[pdf](https://arxiv.org/abs/1807.06749)],
+[[video](https://www.youtube.com/watch?v=6rLc9fAtzAQ)].
+
 [OptLayer - practical constrained optimization for deep reinforcement learning in the real world](/2018-05-21-icra-optlayer)  
 T.-H. Pham, G. De Magistris, R. Tachibana, IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May, 2018.
 [[pdf](https://arxiv.org/abs/1709.07643)],
